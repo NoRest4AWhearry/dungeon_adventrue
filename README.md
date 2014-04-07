@@ -7,7 +7,7 @@ the 1980s, but have fallen out of favor with modern gamers seeking graphical thr
  experimenting with classes and objects, though, as replicating the real world in a virtual form requires a complete
   understanding of mapping real-world concepts into classes.
 
-##Dungeon Consepts
+##Dungeon Concepts
 
 * Dungeon: You need a general class that encapsulates the entire concept of the dungeon game.
 
